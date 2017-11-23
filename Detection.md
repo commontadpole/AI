@@ -9,7 +9,7 @@
   [解析](http://blog.csdn.net/u010333076/article/details/51397332)  
   720\*480大小的图片在不考虑检测效果的情况下，时间可以达到7ms左右；  
   检测效果很差   
-    - NPD  
+    - NPD  
   [CODE](https://github.com/smartadpole/NPD)
   [解析](http://blog.csdn.net/u010333076/article/details/51397332)  
 - **运动检测**
