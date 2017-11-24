@@ -14,8 +14,14 @@
   [解析](http://blog.csdn.net/u010333076/article/details/51397332) 
   [优化](http://blog.csdn.net/qq_14845119/article/details/52576902)(PCA降维、训练）  
   
-    - 各种算法对比  
-    准确性：face++>dlib>云从>NPD> PICO>Opecv
-    速度: PICO>NPD>dlib>opencv
+    - TLD  
+    [CODE](https://github.com/smartadpole/TLD)
+    [分析](http://blog.csdn.net/crzy_sparrow/article/details/7398904)
+    [pdf](http://info.ee.surrey.ac.uk/Personal/Z.Kalal/Publications/2010_icip.pdf)  
+    
+    - 各种算法对比  
+    准确性：face++>dlib>云从>NPD> PICO>Opecv  
+    速度: PICO>NPD>dlib>opencv  
+    
 - **运动检测**
     - [32种检测算法](https://github.com/smartadpole/bgslibrary)
