@@ -19,7 +19,7 @@
     [分析](http://blog.csdn.net/crzy_sparrow/article/details/7398904)
     [pdf](http://info.ee.surrey.ac.uk/Personal/Z.Kalal/Publications/2010_icip.pdf)  
     
-    - 各种算法对比  
+    - 各种算法对比  
     准确性：face++>dlib>云从>NPD> PICO>Opecv  
     速度: PICO>NPD>dlib>opencv  
     
