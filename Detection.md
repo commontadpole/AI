@@ -24,7 +24,7 @@
     速度: PICO>NPD>dlib>opencv  
     
     - 肤色分割&adaboost  
-    [CODE]()  
-    
+    [人脸及肤色检测](https://github.com/smartadpole/SkinSplit)（速度极慢）  
+    
 - **运动检测**
     - [32种检测算法](https://github.com/smartadpole/bgslibrary)
