@@ -24,7 +24,7 @@
     速度: PICO>NPD>dlib>opencv  
     
     - 肤色分割&adaboost  
-    [CODE](https://github.com/smartadpole/FaceTracker)  
+    [CODE]()  
     
 - **运动检测**
     - [32种检测算法](https://github.com/smartadpole/bgslibrary)
