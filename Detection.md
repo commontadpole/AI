@@ -12,7 +12,9 @@
     - NPD  
   [CODE](https://github.com/smartadpole/NPD) 
   [解析](http://blog.csdn.net/u010333076/article/details/51397332) 
-  [优化](http://blog.csdn.net/qq_14845119/article/details/52576902)(PCA降维、训练）  
+  [论文](https://arxiv.org/pdf/1408.1656.pdf)
+  [主页](https://arxiv.org/abs/1408.1656)
+  [优化](http://blog.csdn.net/qq_14845119/article/details/52576902)(PCA降维、训练）  
   
     - TLD  
     [CODE](https://github.com/smartadpole/TLD)
