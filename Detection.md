@@ -6,6 +6,8 @@
   [ARM 版](https://github.com/smartadpole/YSQfastfd)（*ARM硬件只能用该项目中测试使用的硬件*）  
     - Pico  
   [CODE](https://github.com/smartadpole/pico)
+  [论文](https://arxiv.org/pdf/1305.4537.pdf)
+  [主页](https://arxiv.org/abs/1305.4537)
   [解析](http://blog.csdn.net/u010333076/article/details/51397332)  
   720\*480大小的图片在不考虑检测效果的情况下，时间可以达到7ms左右；  
   检测效果很差   
@@ -19,7 +21,7 @@
     - TLD  
     [CODE](https://github.com/smartadpole/TLD)
     [分析](http://blog.csdn.net/crzy_sparrow/article/details/7398904)
-    [pdf](http://info.ee.surrey.ac.uk/Personal/Z.Kalal/Publications/2010_icip.pdf)  
+    [论文](http://info.ee.surrey.ac.uk/Personal/Z.Kalal/Publications/2010_icip.pdf)  
     
     - 各种算法对比  
     准确性：face++>dlib>云从>NPD> PICO>Opecv  
