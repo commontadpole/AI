@@ -15,6 +15,7 @@
   [CODE](https://github.com/smartadpole/NPD) 
   [解析](http://blog.csdn.net/u010333076/article/details/51397332) 
   [论文](https://arxiv.org/pdf/1408.1656.pdf)
+  [训练集](https://sites.google.com/site/leeplus/publications)(论文中用到的)
   [主页](https://arxiv.org/abs/1408.1656)
   [优化](http://blog.csdn.net/qq_14845119/article/details/52576902)(PCA降维、训练）  
   
@@ -23,7 +24,10 @@
     [分析](http://blog.csdn.net/crzy_sparrow/article/details/7398904)
     [论文](http://info.ee.surrey.ac.uk/Personal/Z.Kalal/Publications/2010_icip.pdf)  
     
-    - 各种算法对比  
+    - JDA  
+    [CODE](https://github.com/smartadpole/JDA)  
+    
+    - 各种算法对比  
     准确性：face++>dlib>云从>NPD> PICO>Opecv  
     速度: PICO>NPD>dlib>opencv  
     
