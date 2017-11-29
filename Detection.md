@@ -1,6 +1,9 @@
 # 检测算法集合
 
 -  **人脸检测**  
+
+    - [FDDB](http://vis-www.cs.umass.edu/fddb/results.html)  
+    
     - 各种算法对比  
     准确性：face++>dlib>云从>NPD> PICO>Opecv  
     速度: PICO>NPD>dlib>opencv  
@@ -35,6 +38,6 @@
     
     - BBF  
     [分析](http://libccv.org/doc/doc-bbf/)  
-       
+    
 - **运动检测**
     - [32种检测算法](https://github.com/smartadpole/bgslibrary)
