@@ -23,6 +23,7 @@
   检测效果很差   
     - NPD  
   [CODE](https://github.com/smartadpole/NPD) 
+  [OpenNPD](https://github.com/smartadpole/OpenNPD)
   [解析](http://blog.csdn.net/u010333076/article/details/51397332) 
   [论文](https://arxiv.org/pdf/1408.1656.pdf)
   [主页](http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/)
