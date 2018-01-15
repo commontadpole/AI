@@ -48,8 +48,9 @@
     [CODE_CAFFE_c++](https://github.com/smartadpole/mtcnn-1)
     [&BLOG](http://m.blog.csdn.net/XZZPPP/article/details/75320451)
     [主页](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html?from=timeline&isappinstalled=1)
-    [分析](http://blog.csdn.net/shuzfan/article/details/52668935)  
-    
+    [分析](http://blog.csdn.net/shuzfan/article/details/52668935)
+    [CODE_CAFFE_cpp2](https://github.com/smartadpole/MTCNN-2)  
+        
     
 - **运动检测**
     - [32种检测算法](https://github.com/smartadpole/bgslibrary)
