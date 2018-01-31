@@ -15,6 +15,8 @@
 [官网](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 [pdf](https://arxiv.org/abs/1505.04597)
 [细胞跟踪](http://www.celltrackingchallenge.net/)
+- TernausNet  
+[pdf](https://arxiv.org/pdf/1801.05746.pdf)
 - SegNet  
 [官网](http://mi.eng.cam.ac.uk/projects/segnet/)
 - DeconvNet  
