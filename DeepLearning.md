@@ -12,15 +12,29 @@
 - **运动检测**
 
 - **图像分割**
-    - FCN
-    - U-Net  
+    - 1. FCN  
+    [pdf中文](https://www.cnblogs.com/xuanxufeng/p/6249834.html)
+    [pdf EN](https://arxiv.org/abs/1411.4038)
+    - 2. U-Net  
     [官网](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
     [pdf](https://arxiv.org/abs/1505.04597)
     [细胞跟踪](http://www.celltrackingchallenge.net/)
-    - TernausNet  
+    - 3. TernausNet  
     [pdf](https://arxiv.org/pdf/1801.05746.pdf)
-    - SegNet  
+    - 4. SegNet  
     [官网](http://mi.eng.cam.ac.uk/projects/segnet/)
-    - DeconvNet  
+    - 5. DeconvNet  
     [pdf](https://arxiv.org/abs/1505.04366)
-    - Mask R-CNN
+    - 6. Mask R-CNN
+    - 7. TTI-zoomout  
+    [pdf](https://arxiv.org/abs/1412.0774)
+    - 8. DeepLab-CRF  
+    [pdf](https://arxiv.org/pdf/1606.00915.pdf)
+    [pdf中文](http://blog.csdn.net/cicibabe/article/details/71173965?locationNum=12&fps=1)
+    - 9. CRFasRNN  
+    - 10. Deconvolution Network  
+    - 11. SDS  
+    - 12. DeepLab-public  
+    [pdf](https://arxiv.org/abs/1502.02734)
+    - 13. boxup  
+    - 14. DecoupledNet  
