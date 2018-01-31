@@ -8,4 +8,15 @@
 -  **人脸检测**
     
 - **运动检测**
-    
+
+- **图像分割**
+- FCN
+- U-Net  
+[官网](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+[pdf](https://arxiv.org/abs/1505.04597)
+[细胞跟踪](http://www.celltrackingchallenge.net/)
+- SegNet  
+[官网](http://mi.eng.cam.ac.uk/projects/segnet/)
+- DeconvNet  
+[pdf](https://arxiv.org/abs/1505.04366)
+- Mask R-CNN
