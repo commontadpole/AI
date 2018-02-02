@@ -7,9 +7,15 @@
 - **数据集**  
     - [CityScapes](https://www.cityscapes-dataset.com/downloads/)
 
--  **人脸检测**  
+-  **目标检测**  
     - MTCNN  
     [官网](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html?from=timeline&isappinstalled=1)
+    [code(all-OAID)](https://github.com/OAID/FaceDetection)
+    [code(识别-OAID)](https://github.com/OAID/FaceRecognition)
+    - YOLO  
+    [code(caffe-karta0807913)](https://github.com/karta0807913/caffe-yolo-9000)
+    [code(caffe-yeahkun)](https://github.com/yeahkun/caffe-yolo)
+    [code(caffe-gklz1982)](https://github.com/gklz1982/caffe-yolov2)
     
 - **运动检测**
 
@@ -25,6 +31,8 @@
     [pdf](https://arxiv.org/pdf/1801.05746.pdf)
     - 4. SegNet  
     [官网](http://mi.eng.cam.ac.uk/projects/segnet/)
+    [pdf](https://arxiv.org/abs/1511.00561)
+    [code(caffe-alexgkendall)](https://github.com/alexgkendall/caffe-segnet)
     - 5. DeconvNet  
     [pdf](https://arxiv.org/abs/1505.04366)
     - 6. Mask R-CNN
