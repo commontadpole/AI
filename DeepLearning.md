@@ -19,8 +19,11 @@
     
 - **运动检测**
 
-- **图像分割**
-    - 1. FCN  
+- **图像分割**  
+    - 0. 综述  
+    [pdf](https://arxiv.org/abs/1704.06857)
+    [blog](https://www.cnblogs.com/Jie-Liang/archive/2017/06/29/6902375.html)
+    - 1. FCN  
     [pdf中文](https://www.cnblogs.com/xuanxufeng/p/6249834.html)
     [pdf EN](https://arxiv.org/abs/1411.4038)
     - 2. U-Net  
@@ -50,6 +53,8 @@
     - 14. DecoupledNet
     - 15. Mask R-CNN  
     [code(matterport)](https://github.com/matterport/Mask_RCNN)
+    - 16. deeplab v3  
+    [pdf](https://arxiv.org/abs/1706.05587v1)
     
 - **有趣的项目**
     - 漫画  
