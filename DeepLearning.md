@@ -50,5 +50,9 @@
     - 14. DecoupledNet
     - 15. Mask R-CNN  
     [code(matterport)](https://github.com/matterport/Mask_RCNN)
+    
+- **有趣的项目**
+    - 漫画  
+    [code](https://github.com/mattya/chainer-DCGAN)
 
 
